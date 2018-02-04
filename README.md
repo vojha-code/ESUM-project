@@ -3,7 +3,7 @@ ESUM: This research is a part of our research project "ESUM-Analysing trade­off
 
 We, a team of researchers at ETH Zurich, Switzerland and Bauhaus­ University Weimar, Germany, applied Machine Learning methods to investigating how humans perceive their urban environment and what features of urban environment influence the humans' physiological arousal states. For this purpose, we conducted a study, where participants took a leisure walk in an urban environment. Empirical measures of participants' physiological conditions and urban environment features were analyzed using Machine Learning methods.
 
-The project main website containg results from the codes are  available at:
+The project main website containg results from the codes are  available at:<br>
 http://www.esum.arch.ethz.ch/
 
 
