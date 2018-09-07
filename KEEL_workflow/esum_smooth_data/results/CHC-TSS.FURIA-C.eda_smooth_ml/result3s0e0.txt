@@ -1,0 +1,27 @@
+FURIA rules:
+===========
+
+ => EDA_label=LOW (CF = 0.0)
+ => EDA_label=LOW (CF = 0.0)
+ => EDA_label=LOW (CF = 0.0)
+(Dust <= 0.044774(-> 0.045161)) => EDA_label=NORM (CF = 0.82)
+ => EDA_label=NORM (CF = 0.0)
+ => EDA_label=NORM (CF = 0.0)
+
+
+
+Reglas Buenas
+Inside m_Ruleset
+(Dust >= 0.045161(-> 0.044774)) and (Light <= 2518.88(-> 2774.32)) and (TempEN >= 12.847(-> 12.437)) => EDA_label=LOW (CF = 0.9)
+(Light >= 5590.36(-> 4844.56)) and (Light <= 7996.5(-> 8177.82)) => EDA_label=LOW (CF = 0.83)
+(Sound <= 58(-> 59.210526)) and (Sound >= 57.157896(-> 55.684211)) => EDA_label=LOW (CF = 0.77)
+(Dust <= 0.044774(-> 0.045161)) and (Dust >= 0.039677(-> 0.038194)) => EDA_label=NORM (CF = 0.9)
+(Light >= 2774.32(-> 2569.32)) and (Light <= 4844.56(-> 5590.36)) => EDA_label=NORM (CF = 0.88)
+(Light >= 8177.82(-> 7996.5)) and (Sound >= 60.313766(-> 58)) => EDA_label=NORM (CF = 0.81)
+
+Number of Rules : 6
+
+
+
+
+REGLAS = 6

@@ -1,0 +1,21 @@
+FURIA rules:
+===========
+
+ => EDA_label=LOW (CF = 0.0)
+ => EDA_label=NORM (CF = 0.0)
+ => EDA_label=NORM (CF = 0.0)
+
+
+
+Reglas Buenas
+Inside m_Ruleset
+(TempEN >= 20.7744(-> 20.436)) => EDA_label=LOW (CF = 0.79)
+(Dust <= 0.048172(-> 0.048839)) and (TempEN <= 20.436(-> 20.7744)) => EDA_label=NORM (CF = 0.88)
+(Light >= 6506.46(-> 6372.46)) => EDA_label=NORM (CF = 0.73)
+
+Number of Rules : 3
+
+
+
+
+REGLAS = 3
