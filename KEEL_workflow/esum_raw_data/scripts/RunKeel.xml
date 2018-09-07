@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<execution>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config1s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config2s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config3s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config4s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config5s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config6s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config7s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config8s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/IS-CHC.jar</executableFile>
+    <scriptFile>./CHC-TSS/eda_raw_ml/config9s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config1s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config2s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config3s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config4s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config5s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config6s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config7s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config8s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/FURIA-C.jar</executableFile>
+    <scriptFile>./CHC-TSS.FURIA-C/eda_raw_ml/config9s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ClasifTest_Summary.jar</executableFile>
+    <scriptFile>./Vis-Clas-Check/TSTFURIA-C/config0s0.txt</scriptFile>
+  </sentence>
+</execution>
+

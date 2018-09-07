@@ -1,0 +1,7 @@
+algorithm = FURIA
+inputData = "../datasets/CHC-TSS.eda_raw_ml/CHC-TSSs0.eda_raw_ml-10-2tra.dat" "../datasets/eda_raw_ml/eda_raw_ml-10-2tra.dat" "../datasets/CHC-TSS.eda_raw_ml/CHC-TSSs0.eda_raw_ml-10-2tst.dat" 
+outputData = "../results/CHC-TSS.FURIA-C.eda_raw_ml/result1s0.tra" "../results/CHC-TSS.FURIA-C.eda_raw_ml/result1s0.tst" "../results/CHC-TSS.FURIA-C.eda_raw_ml/result1s0e0.txt"  
+
+seed = 1343278692
+Number of Optimizations = 2
+Number of folds = 3

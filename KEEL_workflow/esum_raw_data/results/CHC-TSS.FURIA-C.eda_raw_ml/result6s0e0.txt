@@ -1,0 +1,17 @@
+FURIA rules:
+===========
+
+ => EDA_level=NORM (CF = 0.0)
+
+
+
+Reglas Buenas
+Inside m_Ruleset
+(RH <= 33.5184(-> 33.5912)) => EDA_level=NORM (CF = 0.66)
+
+Number of Rules : 1
+
+
+
+
+REGLAS = 1

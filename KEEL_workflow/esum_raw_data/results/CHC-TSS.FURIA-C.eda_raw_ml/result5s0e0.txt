@@ -1,0 +1,21 @@
+FURIA rules:
+===========
+
+(TempEN >= 20.96(-> 20.5934)) and (TempEN <= 22.824(-> 23.1504)) => EDA_level=HIGH (CF = 0.74)
+(TempEN <= 20.5934(-> 20.96)) => EDA_level=NORM (CF = 0.74)
+(TempEN >= 23.1504(-> 22.824)) => EDA_level=LOW (CF = 0.56)
+
+
+
+Reglas Buenas
+Inside m_Ruleset
+(TempEN >= 20.96(-> 20.5934)) and (TempEN <= 22.824(-> 23.1504)) => EDA_level=HIGH (CF = 0.74)
+(TempEN <= 20.5934(-> 20.96)) => EDA_level=NORM (CF = 0.74)
+(TempEN >= 23.1504(-> 22.824)) => EDA_level=LOW (CF = 0.56)
+
+Number of Rules : 3
+
+
+
+
+REGLAS = 3

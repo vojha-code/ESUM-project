@@ -1,0 +1,13 @@
+algorithm = CHC Adaptative Search for Instance Selection
+inputData = "../datasets/eda_raw_ml/eda_raw_ml-10-5tra.dat" "../datasets/eda_raw_ml/eda_raw_ml-10-5tst.dat" 
+outputData = "../datasets/CHC-TSS.eda_raw_ml/CHC-TSSs0.eda_raw_ml-10-5tra.dat" "../datasets/CHC-TSS.eda_raw_ml/CHC-TSSs0.eda_raw_ml-10-5tst.dat" 
+
+seed = 1286082570
+Population Size = 50
+Number of Evaluations = 10000
+Alfa Equilibrate Factor = 0.5
+Percentage of Change in Restart = 0.35
+0 to 1 Probability in Restart = 0.25
+0 to 1 Probability in Diverge = 0.05
+Number of Neighbours = 1
+Distance Function = Euclidean

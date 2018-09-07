@@ -1,0 +1,21 @@
+FURIA rules:
+===========
+
+ => EDA_level=HIGH (CF = 0.0)
+ => EDA_level=NORM (CF = 0.0)
+(TempEN <= 18.5708(-> 21.5902)) => EDA_level=NORM (CF = 0.65)
+
+
+
+Reglas Buenas
+Inside m_Ruleset
+(TempEN >= 20.9888(-> 20.8266)) and (TempEN <= 23.2272(-> 23.4048)) => EDA_level=HIGH (CF = 0.76)
+(RH <= 34.0298(-> 34.1504)) and (Sound <= 60.41604(-> 60.570852)) => EDA_level=NORM (CF = 0.87)
+(TempEN <= 18.5708(-> 21.5902)) and (Dust >= 0.039419(-> 0.039269)) and (Dust <= 0.083097(-> 0.138581)) => EDA_level=NORM (CF = 0.9)
+
+Number of Rules : 3
+
+
+
+
+REGLAS = 3
