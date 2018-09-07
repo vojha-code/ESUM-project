@@ -1,0 +1,8 @@
+algorithm = Summary of the algorithm, Classification probs.
+inputData = "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result0s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result1s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result2s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result3s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result4s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result5s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result6s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result7s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result8s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result9s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result0s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result1s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result2s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result3s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result4s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result5s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result6s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result7s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result8s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result9s0.tra" 
+outputData = "../results/Vis-Clas-Check/TSTFURIA-C/result0s0.stat" 
+
+seed = 1343278692
+subAlgorithm = StatCheckCL
+dataformat = keel
+outlabel = CHK

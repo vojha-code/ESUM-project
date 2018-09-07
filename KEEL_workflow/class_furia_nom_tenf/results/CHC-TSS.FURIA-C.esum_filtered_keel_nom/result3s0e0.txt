@@ -1,0 +1,23 @@
+FURIA rules:
+===========
+
+(Dust >= 0.050258(-> 0.047097)) => EDA_label=AROSAL (CF = 0.63)
+ => EDA_label=AROSAL (CF = 0.0)
+ => EDA_label=NORM (CF = 0.0)
+ => EDA_label=NORM (CF = 0.0)
+
+
+
+Reglas Buenas
+Inside m_Ruleset
+(Dust >= 0.050258(-> 0.047097)) and (RH >= 32.793(-> 31.2946)) => EDA_label=AROSAL (CF = 0.85)
+(TempEN >= 21.676(-> 20.9364)) => EDA_label=AROSAL (CF = 0.8)
+(Dust <= 0.048581(-> 0.049677)) and (Area <= 16088.91257(-> 18078.0144)) => EDA_label=NORM (CF = 0.85)
+(Occlusivity >= 805.103041(-> 783.319553)) and (TempEN <= 20.9364(-> 21.676)) => EDA_label=NORM (CF = 0.92)
+
+Number of Rules : 4
+
+
+
+
+REGLAS = 4

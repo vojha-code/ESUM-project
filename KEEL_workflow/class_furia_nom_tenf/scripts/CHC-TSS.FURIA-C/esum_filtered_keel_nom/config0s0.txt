@@ -1,0 +1,7 @@
+algorithm = FURIA
+inputData = "../datasets/CHC-TSS.esum_filtered_keel_nom/CHC-TSSs0.esum_filtered_keel_nom-10-1tra.dat" "../datasets/esum_filtered_keel_nom/esum_filtered_keel_nom-10-1tra.dat" "../datasets/CHC-TSS.esum_filtered_keel_nom/CHC-TSSs0.esum_filtered_keel_nom-10-1tst.dat" 
+outputData = "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result0s0.tra" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result0s0.tst" "../results/CHC-TSS.FURIA-C.esum_filtered_keel_nom/result0s0e0.txt"  
+
+seed = 1286082570
+Number of Optimizations = 2
+Number of folds = 3

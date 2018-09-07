@@ -1,0 +1,25 @@
+FURIA rules:
+===========
+
+ => EDA_label=AROSAL (CF = 0.0)
+ => EDA_label=AROSAL (CF = 0.0)
+ => EDA_label=NORM (CF = 0.0)
+ => EDA_label=NORM (CF = 0.0)
+(TempEN >= 17.458(-> 17.3724)) and (TempEN <= 19.5412(-> 21.7478)) => EDA_label=NORM (CF = 0.74)
+
+
+
+Reglas Buenas
+Inside m_Ruleset
+(TempEN >= 21.7478(-> 21.6376)) => EDA_label=AROSAL (CF = 0.83)
+(RH >= 53.512(-> 47.9516)) => EDA_label=AROSAL (CF = 0.77)
+(TempEN <= 16.2438(-> 16.4486)) and (Light >= 1101.38(-> 675.62)) => EDA_label=NORM (CF = 0.94)
+(RH <= 31.4808(-> 32.4858)) and (Dust <= 0.061806(-> 0.064387)) => EDA_label=NORM (CF = 0.86)
+(TempEN >= 17.458(-> 17.3724)) and (TempEN <= 19.5412(-> 21.7478)) and (Sound >= 59.58772(-> 59.23077)) => EDA_label=NORM (CF = 0.92)
+
+Number of Rules : 5
+
+
+
+
+REGLAS = 5
