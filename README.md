@@ -9,3 +9,6 @@ http://www.esum.arch.ethz.ch/
 
 The codes for animation (visuallization of data like rela-time walk) are available at:
 https://github.com/peterbus/Esum_Data_Visualisation
+
+Main paper:
+https://www.sciencedirect.com/science/article/pii/S0020025518307734
